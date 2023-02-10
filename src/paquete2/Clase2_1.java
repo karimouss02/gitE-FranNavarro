@@ -6,6 +6,7 @@ public class Clase2_1 {
 		
 		System.out.println("Esta es la primera clase del segundo paquete.");
 		System.out.println("Esto es una modificación");
+		System.out.println("Cambios en la rama 1");
 		
 	}
 }
